@@ -1,0 +1,20 @@
+{
+  "name": "common-methods",
+  "version": "1.0.0",
+  "description": "常用方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-Guozhi/common-methods.git"
+  },
+  "keywords": [],
+  "author": "EGZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/E-Guozhi/common-methods/issues"
+  },
+  "homepage": "https://github.com/E-Guozhi/common-methods#readme"
+}
